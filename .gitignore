@@ -1,0 +1,18 @@
+# Compiled binaries
+search_index
+*.o
+*.out
+*.exe
+
+# Archives
+*.zip
+*.tar.gz
+
+# Logs and input/output
+*.txt
+indexare.in
+indexare.out
+
+# OS/System artifacts
+*:Zone.Identifier
+.DS_Store
